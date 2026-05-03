@@ -52,7 +52,7 @@ def attack_worker(attack_id, target_ip, target_port, duration, attack_type, thre
 def start_command(message):
     user_id = message.from_user.id
     welcome_msg = (
-        "TELEGRAM DDoS BOT v2.0\n\n"
+        "TELEGRAM DDoS BOT \n\n"
         "Available commands:\n"
         "/help - Show all commands\n"
         "/attack <ip> <port> <duration> <type> <threads> - Start attack\n"
