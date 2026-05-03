@@ -1,0 +1,9 @@
+{
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "admin_ids": [
+        123456789,
+        987654321
+    ],
+    "max_attacks": 10,
+    "log_level": "INFO"
+}
