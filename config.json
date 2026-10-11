@@ -1,8 +1,8 @@
 {
-    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "bot_token": "8864547814:AAGUa2YLs2m_wmq9AwSe0X0LiwIC-4UD8iM",
     "admin_ids": [
-        123456789,
-        987654321
+        8707571669,
+        8906782967
     ],
     "max_attacks": 10,
     "log_level": "INFO"
